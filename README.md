@@ -64,12 +64,12 @@ A principal funcionalidade do projeto é:
 ## :camera: Imagens
 **<p align="center">Dispositivo desktop:</p>**
 <div align="center">
-  <img src="img/projetodesktop.png" alt="projeto em desktop">
+  <img src="img/projetodesktop.gif" alt="projeto em desktop">
 </div>
 
 **<p align="center">Dispositivo mobile:</p>**
 <div align="center">
-  <img src="img/projetomobile.png" alt="projeto em mobile">
+  <img src="img/projetomobile.gif" alt="projeto em mobile">
 </div>
 
 
